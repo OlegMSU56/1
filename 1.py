@@ -1,4 +1,3 @@
-'richiest', 'orichalcum', 'cheers', 'richies'
 def single_root_words(root_world, *other_words):
     same_words = []
     for j in other_words:
